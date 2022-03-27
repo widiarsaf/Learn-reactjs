@@ -1,0 +1,22 @@
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 60px;
+}
+
+.container-login{
+	border-radius: 20px;
+	width:  25%;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	border: 1px solid rgba(120,76,192,0.6);
+	box-shadow: 2px 49px 170px -80px rgba(120,76,192,0.3);
+
+
+}
+
+.h3{
+	color: grey;
+}
